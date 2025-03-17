@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently studying on American International University of Bangladesh (AIUB).<br>👯 I’m looking to collaborate on projects related to Cybersecurity, Networking and Software Quality Assurance (SQA).<br>🤝 I’m looking for help with expanding my knowledge and skills in Cybersecurity, Networking, and SQA.<br>🌱 I’m currently learning advanced techniques and methodologies in Cybersecurity, Networking, and SQA to enhance my understanding and proficiency.<br>💬 Ask me about topics related to Cybersecurity, Networking, or Software Quality Assurance, and I'll do my best to provide you with helpful information.<br>⚡ Fun fact: Cybersecurity is an ever-evolving field that requires continuous learning and adaptability due to the constantly evolving nature of cyber threats and attacks.
+### **💫 About Me:**  
+🔭 **I’m currently working as an Associate SQA Engineer at Codemen Solutions Limited.**  
+👯 **I’m looking to collaborate on projects related to Software Quality Assurance (SQA), Automation Testing, API Testing, and Cybersecurity.**  
+🤝 **I’m eager to expand my expertise in automation testing frameworks like WebdriverIO, Playwright, and API testing tools like Postman.**  
+🌱 **I’m continuously learning advanced SQA methodologies, automation strategies, and performance testing techniques to enhance software reliability.**  
+💬 **Ask me about Software Testing, API Testing, Automation Frameworks, or Cybersecurity, and I’d be happy to share insights!**  
+⚡ **Fun fact: A well-structured test strategy can reduce production bugs by over 50%, ensuring a seamless user experience!**  
+
 
 
 ## 🌐 Socials:
